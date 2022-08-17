@@ -1,4 +1,4 @@
-// <10> 객체 리터럴 표기 개선
+// 객체 리터럴 표기 개선
 const log = console.log;
 const name = "Alberto";
 const surname = "Montalesi";

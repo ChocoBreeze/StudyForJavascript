@@ -1,4 +1,4 @@
-// <0> 기본 내용
+// 기본 내용
 const log = console.log;
 
 function Car(maker, color) {

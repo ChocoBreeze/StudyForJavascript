@@ -1,4 +1,4 @@
-// <4> template literal
+// template literal
 // template string(before ES6) -> template literal
 // ES6 backtick
 let name = "Alberto";

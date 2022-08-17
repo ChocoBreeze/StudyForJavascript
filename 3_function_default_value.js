@@ -1,4 +1,4 @@
-// <3> function default value(함수 기본값)
+// function default value(함수 기본값)
 const log = console.log;
 
 // use destructuring.

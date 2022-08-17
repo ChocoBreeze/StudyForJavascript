@@ -1,4 +1,4 @@
-// <9> spread syntax
+// spread syntax
 // https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Spread_syntax
 const log = console.log;
 

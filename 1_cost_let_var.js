@@ -1,4 +1,4 @@
-// <1> const, let, var
+// const, let, var
 /*
 TDJ(temporal dead zone)
 var : 정의되기 전에 접근 가능(undefined)하지만 값에는 접근할 수 없음.

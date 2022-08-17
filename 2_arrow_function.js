@@ -1,4 +1,4 @@
-// <2> arrow function
+// arrow function
 // Window 객체. : https://kssong.tistory.com/29
 var greeting = function(name) { // ES5에서 함수 선언
     return "hello " + name;
