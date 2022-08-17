@@ -1,4 +1,5 @@
 // symbol : 항상 unique하며 객체 속성의 식별자로 사용 가능함.
+// ES6에서 추가된 원시 자료형
 const log = console.log;
 
 const me = Symbol("Alberto")
