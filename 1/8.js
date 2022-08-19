@@ -1,4 +1,3 @@
-// Array
 const log = console.log;
 // Array.from() : 배열이 아닌 객체를 받아서 실제 배열로 변환해 반환
 console.log(Array.from('foo'));

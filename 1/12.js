@@ -1,4 +1,3 @@
-// class
 // https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Classes
 // 클래스는 일차적으로 자바스크립트의 기존 prototype 기반 상속에 대한 syntax sugar
 // 클래스 문법이 자바스크립트에 새로운 객체 지향 상속 모델을 도입하는 것은 아님

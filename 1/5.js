@@ -1,4 +1,3 @@
-// 기본적인 문자열 메서드
 // https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/String
 // indexOf() : 지정된 값이 처음 나타나는 위치 반환
 // slice() : 문자열의 지정된 부분을 새 문자열로 반환

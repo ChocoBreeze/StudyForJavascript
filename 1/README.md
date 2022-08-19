@@ -1,0 +1,18 @@
+# index
+- 0.js : 기본적인 내용(전반적인 내용)
+- 1.js : const, let, var
+- 2.js : arrow_function
+- 3.js : function default value(함수 기본값), destructuring
+- 4.js : template literal, backtick(ES6)
+- 5.js : string(기본적인 문자열 메서드)
+- 6.js : Destructuring
+- 7.js : loop
+- 8.js : Array
+- 9.js : Spread(...), rest(...)
+- 10.js : object literal
+- 11.js : symbol
+- 12.js : class
+- 13.js : promise
+- 14.js : generator
+- 15.js : proxy
+- 16.mjs : set, weakSet, map, weakMap (.mjs를 쓴 이유? : .js에서는 top level await가 불가능했으나 .mjs에서는 가능했음. - .js로도 쓸 수 있는 해결책은 찾지 못함.)

@@ -1,4 +1,3 @@
-// loop
 // for of (ES6 ~)
 const log = console.log;
 log("for of")
