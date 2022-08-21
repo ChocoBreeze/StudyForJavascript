@@ -16,5 +16,9 @@
 - 14.js : generator
 - 15.js : proxy
 - 16.mjs : set, weakSet, map, weakMap (.mjs를 쓴 이유? : .js에서는 top level await가 불가능했으나 .mjs에서는 가능했음. - .js로도 쓸 수 있는 해결책은 찾지 못함.)
-- 17.js : ES2016의 새로운 기능
-- 18.js : ES2017의 새로운 기능
+- 17.js : ES2016의 새로운 기능 - includes(), **
+- 18.js : ES2017의 새로운 기능 - padding, Object.entries(), values(), getOwnPropertyDescriptors(), trailing comma, Atomics
+- 19.js : ES2017의 새로운 기능 - async, await
+- 20.js : ES2018의 새로운 기능 - 객체에 rest, spread 연산자, asynchronous iterator, Promise.prototype.finally(), 정규식 기능 추가, 템플릿 리터럴 제한 해제
+- 21.js : ES2019의 새로운 기능 - Array.prototype.flat(), Array.prototype.flatMap(), Object.fromEntries(), String.prototype.trimStart(), String.prototype.trimEnd(), 선택적 catch 할당, Function.prototype.toString(), Symbol.prototype.description
+- 22.js : ES2020의 새로운 기능 - 
