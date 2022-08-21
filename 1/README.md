@@ -16,3 +16,5 @@
 - 14.js : generator
 - 15.js : proxy
 - 16.mjs : set, weakSet, map, weakMap (.mjs를 쓴 이유? : .js에서는 top level await가 불가능했으나 .mjs에서는 가능했음. - .js로도 쓸 수 있는 해결책은 찾지 못함.)
+- 17.js : ES2016의 새로운 기능
+- 18.js : ES2017의 새로운 기능
