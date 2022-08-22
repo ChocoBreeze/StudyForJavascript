@@ -16,9 +16,9 @@ Number.prototype.power = function (n = 2) {
 }
 
 const a = 12
-log('a.power() : ', a.power())
-log('a.power(3) : ', a.power(3))
-log('a.power(4) : ', a.power(4))
+log('a.power() : ', a.power()) // 144
+log('a.power(3) : ', a.power(3)) // 1728
+log('a.power(4) : ', a.power(4)) // 20736
 
 // Number
 // https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Number
@@ -32,3 +32,15 @@ log('a.power(4) : ', a.power(4))
 // .split() : 문자열을 특정 기호로 자르기
 
 // JSON(JavaScript Object Notation - 자바스크립트의 객체처럼 자료를 표현하는 방식) 객체
+// 값 표현 = 문자열, 숫자, 불 자료형만 가능.
+// JSON.stringify() : 자바스크립트 객체 -> JSON 문자열.
+// JSON.parse() : JSON 문자열 -> 자바스크립트 객체.
+
+// Math
+// 랜덤한 숫자
+const num = Math.random(); // 0 ~ 1 사이의 랜덤한 숫자
+log(num);
+
+
+// 다른 library
+// lodash : https://www.npmjs.com/package/lodash
