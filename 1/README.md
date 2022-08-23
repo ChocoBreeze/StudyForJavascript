@@ -21,4 +21,6 @@
 - 19.js : ES2017의 새로운 기능 - async, await
 - 20.js : ES2018의 새로운 기능 - 객체에 rest, spread 연산자, asynchronous iterator, Promise.prototype.finally(), 정규식 기능 추가, 템플릿 리터럴 제한 해제
 - 21.js : ES2019의 새로운 기능 - Array.prototype.flat(), Array.prototype.flatMap(), Object.fromEntries(), String.prototype.trimStart(), String.prototype.trimEnd(), 선택적 catch 할당, Function.prototype.toString(), Symbol.prototype.description
-- 22.js : ES2020의 새로운 기능 - 
+- 22.js : ES2020의 새로운 기능 - BigInt, 동적으로 가져오기, Optional Chaining, Promise.allSettled(), null 계열의 값 병합하기, String.prototype.matchAll(), module namespace export 문법, import.meta, globalThis
+- 23.js : typescript 기초
+- 24.js : ES2021(appendix) - String.prototype.replaceAll(), Promise.any(), 논리 연산자(&&, ||, ??)와 할당 표현식(=), 숫자 구분 기호, weak reference(약한 참조), Intl.ListFormat, Intl.DateTimeFormat의 dateStyle 및 timeStyle 옵션
